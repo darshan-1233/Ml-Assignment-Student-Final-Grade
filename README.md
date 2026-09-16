@@ -26,7 +26,7 @@ Designed for educational performance analysis
 
 The goal of this project is to demonstrate how Machine Learning can be applied to predict student academic performance and identify patterns between student characteristics and final grades.
 
-📁 Project Structure
+📁 Project Structure:
 student-final-grade-prediction/
 ├── app/
 │ ├── app.py # Streamlit GUI application
