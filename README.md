@@ -1,4 +1,4 @@
-<img width="1319" height="532" alt="R2 Model Comparision" src="https://github.com/user-attachments/assets/c1499990-5519-416a-a1d3-376684e5c283" />Student Final Grade Prediction is a Machine Learning web application that predicts a student's final academic grade (G3) based on their demographic, family, lifestyle, and academic information.
+Student Final Grade Prediction is a Machine Learning web application that predicts a student's final academic grade (G3) based on their demographic, family, lifestyle, and academic information.
 
 The application uses two Machine Learning algorithms to generate predictions:
 
