@@ -77,7 +77,6 @@ It should open already sitting in D:\student_ml_project 1
 4. Install the required Python packages
 Since requirements (the text file) is sitting at the root, run:
 
-powershell
 pip install -r requirements.txt
 
 Wait for it to finish — this installs Streamlit, pandas, scikit-learn, etc.
@@ -85,8 +84,7 @@ Wait for it to finish — this installs Streamlit, pandas, scikit-learn, etc.
 5. Run the Streamlit app
 Since app.py is inside the app subfolder, and your terminal is at the root, use:
 
-powershell
-streamlit run app/app.py
+python -m streamlit run app/app.py
 
 6. The app should open automatically in your browser
 If it doesn't open by itself, look in the terminal output for a line like:
