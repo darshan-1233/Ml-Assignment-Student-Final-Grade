@@ -91,7 +91,7 @@ streamlit run app/app.py
 6. The app should open automatically in your browser
 If it doesn't open by itself, look in the terminal output for a line like:
 
-Local URL: http://localhost:8501
+Local URL:http://localhost:8501/
 
 Copy that into your browser manually.
 
