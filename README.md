@@ -1,4 +1,4 @@
-Student Final Grade Prediction is a Machine Learning web application that predicts a student's final academic grade (G3) based on their demographic, family, lifestyle, and academic information.
+Student Final Grade Prediction is a Machine Learning web application that predicts a student's final academic grade (G3) based on their demographic, family, lifestyle, and academic information. 
 
 The application uses two Machine Learning algorithms to generate predictions:
 
